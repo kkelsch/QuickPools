@@ -1,0 +1,20 @@
+C:\Users\kkelsch\AppData\Local\Temporary Projects\QuickPools\bin\Debug\QuickPools.exe.config
+C:\Users\kkelsch\AppData\Local\Temporary Projects\QuickPools\bin\Debug\QuickPools.exe
+C:\Users\kkelsch\AppData\Local\Temporary Projects\QuickPools\bin\Debug\QuickPools.pdb
+C:\Users\kkelsch\AppData\Local\Temporary Projects\QuickPools\obj\Debug\QuickPools.csprojResolveAssemblyReference.cache
+C:\Users\kkelsch\AppData\Local\Temporary Projects\QuickPools\obj\Debug\QuickPools.Main.resources
+C:\Users\kkelsch\AppData\Local\Temporary Projects\QuickPools\obj\Debug\QuickPools.Properties.Resources.resources
+C:\Users\kkelsch\AppData\Local\Temporary Projects\QuickPools\obj\Debug\QuickPools.csproj.GenerateResource.Cache
+C:\Users\kkelsch\AppData\Local\Temporary Projects\QuickPools\obj\Debug\QuickPools.exe
+C:\Users\kkelsch\AppData\Local\Temporary Projects\QuickPools\obj\Debug\QuickPools.pdb
+C:\Users\kkelsch\Documents\Visual Studio 2013\Projects\QuickPools\QuickPools\bin\Debug\QuickPools.exe
+C:\Users\kkelsch\Documents\Visual Studio 2013\Projects\QuickPools\QuickPools\bin\Debug\QuickPools.exe.config
+C:\Users\kkelsch\Documents\Visual Studio 2013\Projects\QuickPools\QuickPools\obj\Debug\QuickPools.Main.resources
+C:\Users\kkelsch\Documents\Visual Studio 2013\Projects\QuickPools\QuickPools\obj\Debug\QuickPools.Pool.resources
+C:\Users\kkelsch\Documents\Visual Studio 2013\Projects\QuickPools\QuickPools\obj\Debug\QuickPools.PoolSheet.resources
+C:\Users\kkelsch\Documents\Visual Studio 2013\Projects\QuickPools\QuickPools\obj\Debug\QuickPools.Properties.Resources.resources
+C:\Users\kkelsch\Documents\Visual Studio 2013\Projects\QuickPools\QuickPools\obj\Debug\QuickPools.csproj.GenerateResource.Cache
+C:\Users\kkelsch\Documents\Visual Studio 2013\Projects\QuickPools\QuickPools\obj\Debug\QuickPools.exe
+C:\Users\kkelsch\Documents\Visual Studio 2013\Projects\QuickPools\QuickPools\obj\Debug\QuickPools.pdb
+C:\Users\kkelsch\Documents\Visual Studio 2013\Projects\QuickPools\QuickPools\bin\Debug\QuickPools.pdb
+C:\Users\kkelsch\Documents\Visual Studio 2013\Projects\QuickPools\QuickPools\obj\Debug\QuickPools.csprojResolveAssemblyReference.cache
